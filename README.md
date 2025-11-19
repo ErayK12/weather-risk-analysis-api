@@ -41,7 +41,6 @@ The main goal of this project was to demonstrate how to transform raw data into 
    python app.py
  
 3. Test the endpoint (Browser or Postman):
-   ```bash
    http://127.0.0.1:5000/api/weather?city=istanbul
 
 
