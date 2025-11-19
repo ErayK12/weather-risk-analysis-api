@@ -35,8 +35,13 @@ The main goal of this project was to demonstrate how to transform raw data into 
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   python app.py
-   Test the endpoint (Browser or Postman):
-http://127.0.0.1:5000/api/weather?city=istanbul
-
    
+2. Run the server:
+   ```bash
+   python app.py
+ 
+3. Test the endpoint (Browser or Postman):
+   ```bash
+   http://127.0.0.1:5000/api/weather?city=istanbul
+
+
